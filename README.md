@@ -1,4 +1,4 @@
-使用教程
+# 使用教程
 1. 引入依赖
 <dependency>
   <groupId>ai.stardust</groupId>
@@ -7,6 +7,8 @@
 </dependency>
 2. 配置机器人属性
 首先在报警群中添加自定义机器人，并配置安全设置，保存好webhook 与密钥。在yaml文件中绑定配置信息。DingBot 提供两个属性配置类，分别绑定机器人配置和负责人信息。
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 dingtalk:
   robots:
